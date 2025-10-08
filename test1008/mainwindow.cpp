@@ -17,7 +17,7 @@ MainWindow::~MainWindow()
 void MainWindow::on_changeButton_clicked()
 {
     if(ui->label->text() == "hello"){
-        ui->label->setText("nihao--guopeng");
+        ui->label->setText("nihao-guopeng");
     }
     else{
         ui->label->setText("hello");
