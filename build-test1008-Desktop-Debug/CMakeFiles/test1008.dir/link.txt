@@ -1,0 +1,1 @@
+/usr/bin/clang++-14 -g CMakeFiles/test1008.dir/test1008_autogen/mocs_compilation.cpp.o CMakeFiles/test1008.dir/main.cpp.o CMakeFiles/test1008.dir/mainwindow.cpp.o -o test1008  /usr/lib/aarch64-linux-gnu/libQt5Widgets.so.5.15.3 /usr/lib/aarch64-linux-gnu/libQt5Gui.so.5.15.3 /usr/lib/aarch64-linux-gnu/libQt5Core.so.5.15.3 

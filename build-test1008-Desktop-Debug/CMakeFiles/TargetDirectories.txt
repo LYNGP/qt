@@ -1,0 +1,4 @@
+/home/HwHiAiUser/gp/C_C++/QT/qt/build-test1008-Desktop-Debug/CMakeFiles/test1008.dir
+/home/HwHiAiUser/gp/C_C++/QT/qt/build-test1008-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/HwHiAiUser/gp/C_C++/QT/qt/build-test1008-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/HwHiAiUser/gp/C_C++/QT/qt/build-test1008-Desktop-Debug/CMakeFiles/test1008_autogen.dir
