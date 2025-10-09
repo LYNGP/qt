@@ -1,0 +1,4 @@
+/home/HwHiAiUser/gp/C_C++/QT/qt/build-day02-Desktop-Debug/CMakeFiles/day02.dir
+/home/HwHiAiUser/gp/C_C++/QT/qt/build-day02-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/HwHiAiUser/gp/C_C++/QT/qt/build-day02-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/HwHiAiUser/gp/C_C++/QT/qt/build-day02-Desktop-Debug/CMakeFiles/day02_autogen.dir
